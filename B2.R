@@ -1,4 +1,4 @@
-# summary_info.R 
+# summary_info.R
 # A source file that takes in a dataset and returns a list of info about it:
 summary_info <- list()
 summary_info$num_observations <- nrow(my_dataframe)
